@@ -1,11 +1,12 @@
  body{
-   background-color: powderblue;
+
+background: content-box radial-gradient(#a3f7bf,#ffeadb);
  }
  h1{
-   color: #d92027;
+   color: #99d8d0;
  }
  h3{
-   color: #d92027;
+   color: #99d8d0;
  }
  hr {
    border-style: dotted none none;
